@@ -1,0 +1,6 @@
+<type>[optional scope]: <subject>
+
+What: <explain what changed here>
+Why: <explain why was it changed>
+
+<ticket>
